@@ -5,5 +5,6 @@
 En este curso se ve de todo: 
 * Todos los comandos de git 
 * etc
+* Nueva linea para probar cherry-pick
 
 Y como recordatorio: **Este readme.md es un chiste** esto es una url en Mardwon [ir a google](https://google.com)
